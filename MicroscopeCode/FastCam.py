@@ -2,7 +2,6 @@ import time
 import picamera
 import numpy as np
 from PIL import Image
-from FindTheDot import *
 import threading
 
 # record some images over a short period of time
