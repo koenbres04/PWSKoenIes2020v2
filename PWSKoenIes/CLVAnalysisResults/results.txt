@@ -1,0 +1,29 @@
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 125.8035019475526:
+ {'K1': 30.000150660094427, 'K2': 5.061966895626492, 'alpha12': 0.9981313570634446, 'alpha21': 0.8959016447906406, 'r1': 0.32120124995431787, 'r2': -0.7059852873565214}
+Improved gradient descent found the following parameters that gave error 7.2724473436024955:
+ {'K1': 28.739600000002937, 'K2': 7.799899999993475, 'alpha12': -1.6549999999997402, 'alpha21': 0.37390000000006895, 'r1': 0.8027999999999261, 'r2': -0.8079999999999292}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 39.67084274799692:
+ {'K1': 29.99997681488124, 'K2': 5.060873932232299, 'alpha12': 1.0003938805454042, 'alpha21': 0.8651875819664647, 'r1': -0.015576325821396049, 'r2': -0.4830070732262231}
+Improved gradient descent found the following parameters that gave error 20.27418972303144:
+ {'K1': 27.63120000000552, 'K2': 2.0351999999981842, 'alpha12': -1.9999999999997022, 'alpha21': 0.2744000000000799, 'r1': 0.24619999999998737, 'r2': 2.9318000000017608}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 142.06636193980916:
+ {'K1': 29.997891728606866, 'K2': 4.554033448696402, 'alpha12': 0.9150958835921075, 'alpha21': 1.5939211298944749, 'r1': 0.7550930088094515, 'r2': 0.9999392884767967}
+Improved gradient descent found the following parameters that gave error 38.55728517053802:
+ {'K1': 28.058200000004526, 'K2': 2.154399999998436, 'alpha12': -1.9999999999997022, 'alpha21': 4.0000000000041105, 'r1': 0.4145999999999689, 'r2': 0.2835999999999834}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 56.796622438073726:
+ {'K1': 29.99963726228364, 'K2': 4.728949512166212, 'alpha12': 0.9547588080549704, 'alpha21': 1.4839272729671922, 'r1': 0.5618522124512029, 'r2': 0.9001892943450491}
+Improved gradient descent found the following parameters that gave error 16.589581052585835:
+ {'K1': 27.852000000005006, 'K2': 1.9999999999981102, 'alpha12': -1.9999999999997022, 'alpha21': 0.7966000000000224, 'r1': 0.38139999999997254, 'r2': 0.5529999999999538}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 550.9941404021204:
+ {'K1': 29.998096972911924, 'K2': 4.708322354376916, 'alpha12': 0.940815651307721, 'alpha21': 1.459462568945742, 'r1': 0.717034173705549, 'r2': 0.7543367071966355}
+Improved gradient descent found the following parameters that gave error 314.83257515075275:
+ {'K1': 29.44224999997028, 'K2': 3.986550000002362, 'alpha12': 0.3850500000000677, 'alpha21': 1.9137000000008182, 'r1': 0.576999999999951, 'r2': 0.8343999999999192}
