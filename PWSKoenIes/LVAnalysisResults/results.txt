@@ -1,0 +1,30 @@
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.9144074613855568:
+ {'alpha': 1.3893241976995452, 'beta': 0.5719325414963883, 'gamma': -0.007336857228653876, 'delta': 0.33284214667320905}
+Improved gradient descent found the following parameters that gave error 0.17009624870761297:
+ {'alpha': 0.23323755753750974, 'beta': -0.42969904784720736, 'gamma': 0.013118699527531454, 'delta': 0.5408626878340375}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 1.0193512209559084:
+ {'alpha': 1.7854578614097325, 'beta': 0.7494031496244835, 'gamma': 0.079206717183786, 'delta': 0.30074450188976637}
+Improved gradient descent found the following parameters that gave error 0.1784561014465886:
+ {'alpha': -0.8316806410274732, 'beta': -0.7432788829776211, 'gamma': -0.0002825015667253077, 'delta': 0.23915616817363722}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 1.4192724500554534:
+ {'alpha': 0.8090049423338286, 'beta': 0.206629916139426, 'gamma': -0.09689842912936245, 'delta': 0.5660230133204049}
+Improved gradient descent found the following parameters that gave error 0.3082261378612768:
+ {'alpha': -0.11311887122345236, 'beta': -0.40496939518097086, 'gamma': -0.026695765341227275, 'delta': 0.7300703919167242}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 1.2512689360277005:
+ {'alpha': 0.9740945709706512, 'beta': 0.2799099080381898, 'gamma': -0.2010200817375505, 'delta': 0.17190616124598784}
+Improved gradient descent found the following parameters that gave error 0.3568727246267614:
+ {'alpha': 0.12132155924935925, 'beta': -0.155891621052276, 'gamma': -0.12331091503021166, 'delta': 0.1677607283852617}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 3.6822920471916523:
+ {'alpha': -0.14651163016348168, 'beta': -0.325600787124643, 'gamma': -0.10604215497713135, 'delta': -0.008218778308215713}
+Improved gradient descent found the following parameters that gave error 3.5326544164955553:
+ {'alpha': -0.2650388840634637, 'beta': -0.3432609437648339, 'gamma': -0.1432990418040894, 'delta': -0.23409880107336478}
+

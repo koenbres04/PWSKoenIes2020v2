@@ -1,0 +1,30 @@
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273226567, 'b': -0.602603345236318}
+Improved gradient descent found the following parameters that gave error 5.796694382750893:
+ {'a': 0.4351870328161882, 'b': -0.6026012957441343}
+

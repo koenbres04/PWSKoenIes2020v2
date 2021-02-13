@@ -1,0 +1,2043 @@
+----------Sun Dec 13 13:06:19 2020----------
+ran EP with parameters:
+step_size11 = 0.005
+step_size12 = 0.005
+step_size21 = 100.0
+step_size22 = 100.0
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.01
+single_data_set_num_steps = 5000
+all_data_set_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.30272319780583573:
+ {'a': 0.6519291759679866, 'b': -0.45227197501601557}
+Improved gradient descent found the following parameters that gave error 0.30272411118400494:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4660943232033697:
+ {'a': 0.2762782665139416, 'b': -0.24393223596930103}
+Improved gradient descent found the following parameters that gave error 0.46609543364810996:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.8184611724030363:
+ {'a': 0.4295813942305502, 'b': -0.8668984252159775}
+Improved gradient descent found the following parameters that gave error 0.818471290905541:
+ {'a': 0.4300000000000012, 'b': -0.8659999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.9978625524835996:
+ {'a': 0.3831685106135971, 'b': -0.9021676176530482}
+Improved gradient descent found the following parameters that gave error 0.9978717215022168:
+ {'a': 0.3840000000000012, 'b': -0.9019999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 7.182925413118117:
+ {'a': 0.4351870327325156, 'b': -0.6229665971469169}
+Improved gradient descent found the following parameters that gave error 9.622463633621766:
+ {'a': 0.3835000000000012, 'b': -0.8665000000000038}
+
+----------Sun Dec 13 13:08:03 2020----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.01
+step_size21 = 200.0
+step_size22 = 200.0
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.01
+single_data_set_num_steps = 5000
+all_data_set_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.30272319780583573:
+ {'a': 0.6519291759679033, 'b': -0.4522719750157935}
+Improved gradient descent found the following parameters that gave error 0.30272411118400494:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4660943232033696:
+ {'a': 0.2762782665141636, 'b': -0.24393223596935654}
+Improved gradient descent found the following parameters that gave error 0.46609543364810996:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.8184611724030365:
+ {'a': 0.42958139423066116, 'b': -0.866898425216033}
+Improved gradient descent found the following parameters that gave error 0.8185059891408353:
+ {'a': 0.4280000000000012, 'b': -0.8679999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.9978625524835996:
+ {'a': 0.38316851061348606, 'b': -0.9021676176533813}
+Improved gradient descent found the following parameters that gave error 0.9979060952040314:
+ {'a': 0.3840000000000012, 'b': -0.9039999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 7.182925413118117:
+ {'a': 0.4351870327323768, 'b': -0.6229665971463896}
+Improved gradient descent found the following parameters that gave error 9.611152193700804:
+ {'a': 0.3840000000000012, 'b': -0.8659999999999999}
+----------Wed Dec 16 17:21:52 2020----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.01
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.3027231978058356:
+ {'a': 0.6519291759680144, 'b': -0.4522719750157935}
+Improved gradient descent found the following parameters that gave error 0.30272411118400494:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4660943232033696:
+ {'a': 0.2762782665141636, 'b': -0.24393223596935654}
+Improved gradient descent found the following parameters that gave error 0.46609543364810996:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.8184611724030365:
+ {'a': 0.42958139423066116, 'b': -0.866898425216033}
+Improved gradient descent found the following parameters that gave error 0.8185059891408353:
+ {'a': 0.4280000000000012, 'b': -0.8679999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.9978625524835996:
+ {'a': 0.38316851061348606, 'b': -0.9021676176533813}
+Improved gradient descent found the following parameters that gave error 0.9979060952040314:
+ {'a': 0.3840000000000012, 'b': -0.9039999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 7.182925413118117:
+ {'a': 0.43518703273184944, 'b': -0.6229665971465839}
+Improved gradient descent found the following parameters that gave error 9.588644324200093:
+ {'a': 0.3850000000000011, 'b': -0.8650000000000007}
+
+----------Wed Dec 16 17:23:34 2020----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+minimal_second_gradient = 0
+e1 = 0.001
+e2 = 0.001
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.31286864811997855:
+ {'a': 0.65205239217725, 'b': -0.45251393799161566}
+Improved gradient descent found the following parameters that gave error 0.31287204448437655:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4699543357127321:
+ {'a': 0.27637897366644765, 'b': -0.24399669903007926}
+Improved gradient descent found the following parameters that gave error 0.4699562604551483:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 1.379595637233929:
+ {'a': 0.4298321248820133, 'b': -0.9395595176248097}
+Improved gradient descent found the following parameters that gave error 1.3796422013578435:
+ {'a': 0.4280000000000012, 'b': -0.94}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 2.556695784003882:
+ {'a': 0.3832747008049039, 'b': -1.1033147838098714}
+Improved gradient descent found the following parameters that gave error 2.556708563978386:
+ {'a': 0.3840000000000012, 'b': -1.104}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 12.021036818853604:
+ {'a': 0.43537929456177826, 'b': -0.6885157432723046}
+Improved gradient descent found the following parameters that gave error 15.226282745600182:
+ {'a': 0.3850000000000012, 'b': -0.9375000000000013}
+
+----------Wed Dec 16 17:25:47 2020----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.288890813882385:
+ {'a': 0.6519291759680144, 'b': -0.4522469254105146}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.46219408285968994:
+ {'a': 0.2762782665141081, 'b': -0.24383169338792943}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.726061929157197:
+ {'a': 0.4295813942304391, 'b': -0.8462245402757187}
+Improved gradient descent found the following parameters that gave error 0.7261179854407425:
+ {'a': 0.4280000000000012, 'b': -0.8479999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524316227702579:
+ {'a': 0.3840000000000012, 'b': -0.8319999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273240456, 'b': -0.6026033452364845}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Wed Dec 16 18:35:39 2020----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+minimal_second_gradient = 0
+e1 = 0
+e2 = 1.0244044240850758
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.14609037942822858:
+ {'a': 0.6520661233858646, 'b': -0.4993396423310916}
+Improved gradient descent found the following parameters that gave error 0.146090686327655:
+ {'a': 0.6520000000000014, 'b': -0.49999999999999956}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.37570121250281024:
+ {'a': 0.2763901961478363, 'b': -0.24274264872114948}
+Improved gradient descent found the following parameters that gave error 0.3757070658672177:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6121257625141298:
+ {'a': 0.4298601149337341, 'b': -0.8336424760149166}
+Improved gradient descent found the following parameters that gave error 0.612172217289788:
+ {'a': 0.4280000000000012, 'b': -0.8319999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.26024141046450083:
+ {'a': 0.38328653097430354, 'b': -0.7081174478713583}
+Improved gradient descent found the following parameters that gave error 0.26024797188132276:
+ {'a': 0.3840000000000012, 'b': -0.7079999999999997}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 2.5427809244019683:
+ {'a': 0.43540074136097595, 'b': -0.6114172684157084}
+Improved gradient descent found the following parameters that gave error 2.6926825437562933:
+ {'a': 0.3850000000000011, 'b': -0.7075000000000025}
+
+----------Thu Dec 24 11:36:34 2020----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+minimal_second_gradient = 0
+e1 = 0
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.2893429183975879:
+ {'a': 0.6520661233858646, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2893436113242255:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4637661578150878:
+ {'a': 0.27639019614761423, 'b': -0.24383169338809596}
+Improved gradient descent found the following parameters that gave error 0.46376856279801093:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7290218540057057:
+ {'a': 0.4298601149337341, 'b': -0.8462245402760518}
+Improved gradient descent found the following parameters that gave error 0.7290906123481077:
+ {'a': 0.4280000000000012, 'b': -0.8479999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6531542791080588:
+ {'a': 0.3832865309745256, 'b': -0.8334186116853983}
+Improved gradient descent found the following parameters that gave error 0.6531777650130663:
+ {'a': 0.3840000000000012, 'b': -0.8319999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.805209034361293:
+ {'a': 0.43540074136111473, 'b': -0.602603345234958}
+Improved gradient descent found the following parameters that gave error 7.54909774833445:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Mon Dec 28 11:57:25 2020----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.288890813882385:
+ {'a': 0.6519291759680144, 'b': -0.4522469254105146}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.46219408285968994:
+ {'a': 0.2762782665141081, 'b': -0.24383169338792943}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.726061929157197:
+ {'a': 0.4295813942304391, 'b': -0.8462245402757187}
+Improved gradient descent found the following parameters that gave error 0.7261179854407425:
+ {'a': 0.4280000000000012, 'b': -0.8479999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524316227702579:
+ {'a': 0.3840000000000012, 'b': -0.8319999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273240456, 'b': -0.6026033452364845}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Tue Dec 29 14:06:28 2020----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.06666666666666667
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.26045366296891775:
+ {'a': 0.6519291759678478, 'b': -0.45363614092819216}
+Improved gradient descent found the following parameters that gave error 0.2604752237066394:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.45238938126330136:
+ {'a': 0.2762782665142191, 'b': -0.2435917768230369}
+Improved gradient descent found the following parameters that gave error 0.4523922926473592:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6704663509785463:
+ {'a': 0.4295813942304391, 'b': -0.836593467545498}
+Improved gradient descent found the following parameters that gave error 0.670500576027971:
+ {'a': 0.4280000000000012, 'b': -0.8359999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.431923477913364:
+ {'a': 0.3831685106135971, 'b': -0.7729707213939832}
+Improved gradient descent found the following parameters that gave error 0.4319379567574725:
+ {'a': 0.3840000000000012, 'b': -0.7719999999999998}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 4.564461207204098:
+ {'a': 0.43518703273233517, 'b': -0.5885630206385319}
+Improved gradient descent found the following parameters that gave error 5.399941366061366:
+ {'a': 0.3850000000000011, 'b': -0.7725000000000012}
+
+----------Tue Dec 29 14:09:05 2020----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.288890813882385:
+ {'a': 0.6519291759680144, 'b': -0.4522469254105146}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.46219408285968994:
+ {'a': 0.2762782665141081, 'b': -0.24383169338792943}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.726061929157197:
+ {'a': 0.4295813942304391, 'b': -0.8462245402757187}
+Improved gradient descent found the following parameters that gave error 0.7261179854407425:
+ {'a': 0.4280000000000012, 'b': -0.8479999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524316227702579:
+ {'a': 0.3840000000000012, 'b': -0.8319999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273240456, 'b': -0.6026033452364845}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Tue Dec 29 14:27:24 2020----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.288890813882385:
+ {'a': 0.6519291759680144, 'b': -0.4522469254105146}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.46219408285968994:
+ {'a': 0.2762782665141081, 'b': -0.24383169338792943}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.726061929157197:
+ {'a': 0.4295813942304391, 'b': -0.8462245402757187}
+Improved gradient descent found the following parameters that gave error 0.7261179854407425:
+ {'a': 0.4280000000000012, 'b': -0.8479999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524316227702579:
+ {'a': 0.3840000000000012, 'b': -0.8319999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273240456, 'b': -0.6026033452364845}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Wed Dec 30 15:11:20 2020----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.288890813882385:
+ {'a': 0.6519291759680144, 'b': -0.4522469254105146}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.46219408285968994:
+ {'a': 0.2762782665141081, 'b': -0.24383169338792943}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.726061929157197:
+ {'a': 0.4295813942304391, 'b': -0.8462245402757187}
+Improved gradient descent found the following parameters that gave error 0.7261179854407425:
+ {'a': 0.4280000000000012, 'b': -0.8479999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524316227702579:
+ {'a': 0.3840000000000012, 'b': -0.8319999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273240456, 'b': -0.6026033452364845}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Tue Jan  5 15:25:26 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260645085537867:
+ {'a': 0.4300000000000012, 'b': -0.8459999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.652426639330922:
+ {'a': 0.38200000000000117, 'b': -0.8339999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Tue Jan  5 15:27:02 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260645085537867:
+ {'a': 0.4300000000000012, 'b': -0.8459999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.652426639330922:
+ {'a': 0.38200000000000117, 'b': -0.8339999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Tue Jan  5 15:31:09 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260645085537867:
+ {'a': 0.4300000000000012, 'b': -0.8459999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.652426639330922:
+ {'a': 0.38200000000000117, 'b': -0.8339999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Tue Jan  5 15:32:40 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260645085537867:
+ {'a': 0.4300000000000012, 'b': -0.8459999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.652426639330922:
+ {'a': 0.38200000000000117, 'b': -0.8339999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Tue Jan  5 15:35:52 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260645085537867:
+ {'a': 0.4300000000000012, 'b': -0.8459999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.652426639330922:
+ {'a': 0.38200000000000117, 'b': -0.8339999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Tue Jan  5 15:37:54 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260645085537867:
+ {'a': 0.4300000000000012, 'b': -0.8459999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.652426639330922:
+ {'a': 0.38200000000000117, 'b': -0.8339999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Tue Jan  5 15:39:03 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260645085537867:
+ {'a': 0.4300000000000012, 'b': -0.8459999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.652426639330922:
+ {'a': 0.38200000000000117, 'b': -0.8339999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Tue Jan  5 15:40:17 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260645085537867:
+ {'a': 0.4300000000000012, 'b': -0.8459999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.652426639330922:
+ {'a': 0.38200000000000117, 'b': -0.8339999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Tue Jan  5 16:37:52 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.4300000000000012, 'b': -0.8459999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.38200000000000117, 'b': -0.8339999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Tue Jan  5 20:30:53 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260645085537867:
+ {'a': 0.4300000000000012, 'b': -0.8459999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.652426639330922:
+ {'a': 0.38200000000000117, 'b': -0.8339999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Mon Jan 11 14:04:06 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 0.0001
+epsilon2 = 0.0001
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.288890872673013:
+ {'a': 0.6518841759641911, 'b': -0.45229192600785195}
+Improved gradient descent found the following parameters that gave error 0.2903815554462685:
+ {'a': 0.6600000000000009, 'b': -0.4599999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621941452349752:
+ {'a': 0.27623326650457836, 'b': -0.24387669360223985}
+Improved gradient descent found the following parameters that gave error 0.4625524637272386:
+ {'a': 0.28000000000000064, 'b': -0.23999999999999932}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619795924329:
+ {'a': 0.4295363942209427, 'b': -0.8462695416335255}
+Improved gradient descent found the following parameters that gave error 0.7277593190484594:
+ {'a': 0.4400000000000008, 'b': -0.8399999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524058463552137:
+ {'a': 0.38312351060755345, 'b': -0.8334636127953257}
+Improved gradient descent found the following parameters that gave error 0.6540778487255177:
+ {'a': 0.3800000000000007, 'b': -0.8199999999999998}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694604611973:
+ {'a': 0.4351420327250175, 'b': -0.602648346113179}
+Improved gradient descent found the following parameters that gave error 7.089025541421581:
+ {'a': 0.4000000000000004, 'b': -0.7999999999999998}
+
+----------Mon Jan 11 14:05:52 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 1e-06
+epsilon2 = 1e-06
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.2888908132944788:
+ {'a': 0.6519336759679426, 'b': -0.4522424254128623}
+Improved gradient descent found the following parameters that gave error 5.791724202602019:
+ {'a': -7.750102100877176e-14, 'b': -0.4524000000000603}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940822359369:
+ {'a': 0.2762827665152576, 'b': -0.2438271933881122}
+Improved gradient descent found the following parameters that gave error 1.4517562774656227:
+ {'a': -7.750099390371745e-14, 'b': -0.24400000000008243}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619286528447:
+ {'a': 0.42958589423591853, 'b': -0.8462200402726818}
+Improved gradient descent found the following parameters that gave error 3.1084463955122934:
+ {'a': -7.750102100877176e-14, 'b': -0.8464000000000169}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057926390788:
+ {'a': 0.3831730106161899, 'b': -0.8334141116795859}
+Improved gradient descent found the following parameters that gave error 2.5578832645185803:
+ {'a': -7.750104811382608e-14, 'b': -0.8336000000000183}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694381146721:
+ {'a': 0.4351915327351361, 'b': -0.602598845239998}
+Improved gradient descent found the following parameters that gave error 7.557556986010397:
+ {'a': 0.3832499999999338, 'b': -0.8332500000000184}
+
+----------Mon Jan 11 14:08:57 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 0.001
+epsilon2 = 0.001
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.2888967517352213:
+ {'a': 0.6514341755892098, 'b': -0.45274198572683466}
+Improved gradient descent found the following parameters that gave error 0.5382289642128585:
+ {'a': 0.6000000000000001, 'b': -0.6000000000000001}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4622003827632603:
+ {'a': 0.275783265554859, 'b': -0.24432671502199987}
+Improved gradient descent found the following parameters that gave error 0.5614313712337129:
+ {'a': 0.2, 'b': -0.19999999999999998}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260670231152648:
+ {'a': 0.429086393264154, 'b': -0.8467196774620358}
+Improved gradient descent found the following parameters that gave error 0.7539894730998355:
+ {'a': 0.39999999999999997, 'b': -0.8}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524111647837234:
+ {'a': 0.38267351001721495, 'b': -0.8339137237788898}
+Improved gradient descent found the following parameters that gave error 0.665822222922496:
+ {'a': 0.4, 'b': -0.8}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.7967167298818065:
+ {'a': 0.43469203198439893, 'b': -0.6030984338246642}
+Improved gradient descent found the following parameters that gave error 6.434719689702739:
+ {'a': 0.5, 'b': -0.5}
+
+----------Mon Jan 11 14:09:45 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888914972298378:
+ {'a': 0.6520000000000014, 'b': -0.4519999999999995}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.46219549228355833:
+ {'a': 0.2760000000000011, 'b': -0.24399999999999933}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260645085537867:
+ {'a': 0.4300000000000012, 'b': -0.8459999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.652426639330922:
+ {'a': 0.38200000000000117, 'b': -0.8339999999999999}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 7.538990443889151:
+ {'a': 0.3850000000000011, 'b': -0.8325000000000001}
+
+----------Thu Jan 14 13:55:18 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 200.0
+step_size22 = 500.0
+epsilon1 = 0.01
+epsilon2 = 0.01
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28948465201978646:
+ {'a': 0.6469341380905435, 'b': -0.45724795790587336}
+Improved gradient descent found the following parameters that gave error 28.66357637096715:
+ {'a': 0.9999999999999996, 'b': 1.0}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.46282413311364057:
+ {'a': 0.27128317058020585, 'b': -0.2488288571294034}
+Improved gradient descent found the following parameters that gave error 21.958495366119013:
+ {'a': -1, 'b': -1}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7265713678242683:
+ {'a': 0.42458629758424626, 'b': -0.8512332603478059}
+Improved gradient descent found the following parameters that gave error 20.669075553118663:
+ {'a': -1, 'b': -1}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6529430008323907:
+ {'a': 0.3781734509810799, 'b': -0.8384248221937513}
+Improved gradient descent found the following parameters that gave error 21.20005152035682:
+ {'a': -1.0, 'b': -1.0000000000000004}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.7989292300252:
+ {'a': 0.4301919579213606, 'b': -0.6076072051817135}
+Improved gradient descent found the following parameters that gave error 93.2370609418622:
+ {'a': -1, 'b': -1}
+
+----------Thu Jan 14 13:59:14 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 0.1
+step_size22 = 0.1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138823851:
+ {'a': 0.6519291759675084, 'b': -0.45224692541070227}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.2762782665128585, 'b': -0.24383169338754423}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291571969:
+ {'a': 0.4295813942301982, 'b': -0.8462245402750297}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.652405792854961:
+ {'a': 0.38317348847484023, 'b': -0.8334187248220652}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 5.947244278761633:
+ {'a': 0.4354052168685406, 'b': -0.5403884249070842}
+
+----------Thu Jan 14 14:00:27 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 5.932271007950332:
+ {'a': 0.4354052408726189, 'b': -0.5435062818383061}
+
+----------Thu Jan 14 14:00:52 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 0.0001
+epsilon2 = 0.0001
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.288890872673013:
+ {'a': 0.6518841759641911, 'b': -0.45229192600785195}
+Improved gradient descent found the following parameters that gave error 0.2888908725720171:
+ {'a': 0.651884176819005, 'b': -0.4522918327414605}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621941452349752:
+ {'a': 0.27623326650457836, 'b': -0.24387669360223985}
+Improved gradient descent found the following parameters that gave error 0.4621941363690953:
+ {'a': 0.2762347453269577, 'b': -0.24387060620793974}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619795924329:
+ {'a': 0.4295363942209427, 'b': -0.8462695416335255}
+Improved gradient descent found the following parameters that gave error 0.7260619795774448:
+ {'a': 0.42953639598512827, 'b': -0.8462695244177668}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524058463552137:
+ {'a': 0.38312351060755345, 'b': -0.8334636127953257}
+Improved gradient descent found the following parameters that gave error 0.6524058194409077:
+ {'a': 0.3831302226884177, 'b': -0.8334304470497068}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694604611973:
+ {'a': 0.4351420327250175, 'b': -0.602648346113179}
+Improved gradient descent found the following parameters that gave error 5.9320290641126086:
+ {'a': 0.43536017744173466, 'b': -0.5435578940799971}
+
+----------Thu Jan 14 17:24:55 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 5.932271007950332:
+ {'a': 0.4354052408726189, 'b': -0.5435062818383061}
+
+----------Thu Jan 14 17:29:25 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 5.932271007950332:
+ {'a': 0.4354052408726189, 'b': -0.5435062818383061}
+
+----------Thu Jan 14 17:29:51 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 5.932271007950332:
+ {'a': 0.4354052408726189, 'b': -0.5435062818383061}
+
+----------Thu Jan 14 17:36:08 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 5.932271007950332:
+ {'a': 0.4354052408726189, 'b': -0.5435062818383061}
+
+----------Thu Jan 14 17:37:48 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 5.932271007950332:
+ {'a': 0.4354052408726189, 'b': -0.5435062818383061}
+
+----------Thu Jan 14 17:39:44 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.796694383359249:
+ {'a': 0.4351870327323213, 'b': -0.6026033452368176}
+Improved gradient descent found the following parameters that gave error 5.932271007950332:
+ {'a': 0.4354052408726189, 'b': -0.5435062818383061}
+
+----------Thu Jan 14 18:15:08 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273226567, 'b': -0.602603345236318}
+Improved gradient descent found the following parameters that gave error 5.796694382750893:
+ {'a': 0.4351870328161882, 'b': -0.6026012957441343}
+
+----------Thu Jan 14 20:54:19 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273226567, 'b': -0.602603345236318}
+Improved gradient descent found the following parameters that gave error 5.796694382750893:
+ {'a': 0.4351870328161882, 'b': -0.6026012957441343}
+
+----------Thu Jan 14 20:55:31 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273226567, 'b': -0.602603345236318}
+Improved gradient descent found the following parameters that gave error 5.796694382750893:
+ {'a': 0.4351870328161882, 'b': -0.6026012957441343}
+
+----------Thu Jan 14 20:56:47 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273226567, 'b': -0.602603345236318}
+Improved gradient descent found the following parameters that gave error 5.796694382750893:
+ {'a': 0.4351870328161882, 'b': -0.6026012957441343}
+
+----------Thu Jan 14 20:57:45 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273226567, 'b': -0.602603345236318}
+Improved gradient descent found the following parameters that gave error 5.796694382750893:
+ {'a': 0.4351870328161882, 'b': -0.6026012957441343}
+
+----------Thu Jan 14 20:58:53 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273226567, 'b': -0.602603345236318}
+Improved gradient descent found the following parameters that gave error 5.796694382750893:
+ {'a': 0.4351870328161882, 'b': -0.6026012957441343}
+
+----------Thu Jan 14 21:00:26 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273226567, 'b': -0.602603345236318}
+Improved gradient descent found the following parameters that gave error 5.796694382750893:
+ {'a': 0.4351870328161882, 'b': -0.6026012957441343}
+
+----------Thu Jan 14 21:04:29 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273226567, 'b': -0.602603345236318}
+Improved gradient descent found the following parameters that gave error 5.796694382750893:
+ {'a': 0.4351870328161882, 'b': -0.6026012957441343}
+
+----------Thu Jan 14 21:12:32 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273226567, 'b': -0.602603345236318}
+Improved gradient descent found the following parameters that gave error 5.796694382750893:
+ {'a': 0.4351870328161882, 'b': -0.6026012957441343}
+
+----------Thu Jan 14 21:13:49 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273226567, 'b': -0.602603345236318}
+Improved gradient descent found the following parameters that gave error 5.796694382750893:
+ {'a': 0.4351870328161882, 'b': -0.6026012957441343}
+
+----------Thu Jan 14 21:18:48 2021----------
+ran EP with parameters:
+step_size11 = 0.01
+step_size12 = 0.05
+step_size21 = 1
+step_size22 = 1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 0
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 5000
+all_data_sets_num_steps = 5000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.28889081388238497:
+ {'a': 0.6519291759679589, 'b': -0.4522469254105701}
+Improved gradient descent found the following parameters that gave error 0.2888908138745803:
+ {'a': 0.6519291766630112, 'b': -0.4522468529216583}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4621940828596899:
+ {'a': 0.27627826651399706, 'b': -0.24383169338815147}
+Improved gradient descent found the following parameters that gave error 0.4621940824027539:
+ {'a': 0.2762797403787971, 'b': -0.24382572782938577}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.7260619291571968:
+ {'a': 0.42958139423066116, 'b': -0.8462245402758297}
+Improved gradient descent found the following parameters that gave error 0.7260619291564564:
+ {'a': 0.42958139562037334, 'b': -0.8462245326778858}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.6524057931709218:
+ {'a': 0.38316851061348606, 'b': -0.8334186116862865}
+Improved gradient descent found the following parameters that gave error 0.6524057931707631:
+ {'a': 0.3831685106130495, 'b': -0.8334186098095028}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 5.79669438335925:
+ {'a': 0.43518703273226567, 'b': -0.602603345236318}
+Improved gradient descent found the following parameters that gave error 5.796694382750893:
+ {'a': 0.4351870328161882, 'b': -0.6026012957441343}
+

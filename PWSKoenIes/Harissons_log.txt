@@ -1,0 +1,262 @@
+----------Fri Jan  1 20:38:59 2021----------
+ran Harissons with parameters:
+step_size11 = 0.05
+step_size12 = 0.1
+step_size21 = 500.0
+step_size22 = 500.0
+minimal_second_gradient = 1e-09
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 30000
+all_data_sets_num_steps = 30000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.13755996496062087:
+ {'z(0)': 1.5757624487641444, 'rho': 0.972825151493272, 'K': 21.069202654579172, 'omega': 0.5401808293164769, 'phi': 1.1701268992752858, 'nu': -4.999835157892818e-06, 'sigma_hat': 0.9632793717935231, 'delta': -0.2919447385122129, 'gamma': 1.56801612819124}
+Improved gradient descent found the following parameters that gave error 0.1389867685344217:
+ {'z(0)': 0.7549999999999998, 'rho': 0.9349999999999998, 'K': 23.95499999999952, 'omega': -8.413408858487514e-16, 'phi': 1.9999999999999787, 'nu': -8.413408858487514e-16, 'sigma_hat': -8.283304597789254e-16, 'delta': -0.215000000000001, 'gamma': 1.1349999999999971}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.2298985255831975:
+ {'z(0)': 2.4592234986331327, 'rho': 1.2035114445760045, 'K': 5.696204569883962, 'omega': 0.5575705405934097, 'phi': 1.167427359007849, 'nu': -4.999954923201599e-06, 'sigma_hat': 0.9320679238661025, 'delta': -0.16988092740424876, 'gamma': 1.5345147491001012}
+Improved gradient descent found the following parameters that gave error 0.2324767319308972:
+ {'z(0)': 1.0299999999999994, 'rho': 1.1999999999999957, 'K': 5.6899999999999, 'omega': -8.27463098040937e-16, 'phi': 1.9999999999999787, 'nu': -8.27463098040937e-16, 'sigma_hat': 0.4299999999999995, 'delta': -0.1200000000000009, 'gamma': 0.8699999999999998}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.30361056902059935:
+ {'z(0)': 0.755669335362307, 'rho': 1.3100904093644719, 'K': 5.860721843315683, 'omega': 0.5911891665267834, 'phi': 1.171379925803239, 'nu': -4.999943959749231e-06, 'sigma_hat': 0.8432860959904356, 'delta': -0.9662843304490973, 'gamma': 0.9592300865813854}
+Improved gradient descent found the following parameters that gave error 0.3045956173452943:
+ {'z(0)': 0.2099999999999993, 'rho': 1.3099999999999934, 'K': 5.849999999999897, 'omega': -8.36136715420821e-16, 'phi': 1.9999999999999787, 'nu': -8.36136715420821e-16, 'sigma_hat': -8.27463098040937e-16, 'delta': -0.8000000000000015, 'gamma': 0.8899999999999998}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.38274375270341615:
+ {'z(0)': 5.796974285706941, 'rho': 1.0308351915273564, 'K': 9.515485499071502, 'omega': 0.56392441660874, 'phi': 1.1872244696338177, 'nu': -4.999924253290544e-06, 'sigma_hat': 0.7753642064074464, 'delta': -1.2541994737756976, 'gamma': 1.2485420665127025}
+Improved gradient descent found the following parameters that gave error 0.3841476719565923:
+ {'z(0)': 4.844999999999918, 'rho': 1.0349999999999993, 'K': 9.495000000000084, 'omega': -8.222589276130066e-16, 'phi': 1.9999999999999787, 'nu': -8.36136715420821e-16, 'sigma_hat': -8.213915658750182e-16, 'delta': -1.264999999999996, 'gamma': 1.184999999999996}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 3.1370979759759674:
+ {'z(0)': 4.110839466577277, 'rho': 1.1398742872352199, 'K': 8.484514048285032, 'omega': 0.4175289916645277, 'phi': 1.2489363422503166, 'nu': -4.999905657068763e-06, 'sigma_hat': 0.7048771097257758, 'delta': -0.5710282286354738, 'gamma': 1.8245031886219834}
+Improved gradient descent found the following parameters that gave error 5.511050872950156:
+ {'z(0)': 0.25999999999999934, 'rho': 1.5274999999999888, 'K': 5.59499999999993, 'omega': -8.656270145124267e-16, 'phi': 1.9999999999999787, 'nu': -8.656270145124267e-16, 'sigma_hat': 0.1974999999999993, 'delta': 0.13249999999999923, 'gamma': 1.4774999999999898}
+
+----------Fri Jan  8 17:57:12 2021----------
+ran Harissons with parameters:
+step_size11 = 0.1
+step_size12 = 0.2
+step_size21 = 1000.0
+step_size22 = 1000.0
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 1e-09
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 30000
+all_data_sets_num_steps = 30000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.13919262233960428:
+ {'z(0)': 0.9528060461251311, 'rho': 1.3123737687449335, 'K': 18.42962809540708, 'omega': 0.8046857547803756, 'phi': -0.19893380915142567, 'nu': 0.8995862760234332, 'sigma_hat': 1.7497168761769202, 'delta': -2.235389719665749, 'gamma': 1.0179190010524133}
+Improved gradient descent found the following parameters that gave error 0.14394442943760397:
+ {'z(0)': 0.6999999999999997, 'rho': 0.94, 'K': 23.54000000000088, 'omega': -7.667477763817487e-16, 'phi': 2.000000000000001, 'nu': -7.945033519973776e-16, 'sigma_hat': -7.7021722333370235e-16, 'delta': -0.18000000000000077, 'gamma': 1.1800000000000002}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.23125498315740295:
+ {'z(0)': 0.7636153322863596, 'rho': 1.1809578212039198, 'K': 5.663759646743563, 'omega': -0.17452858211852806, 'phi': 1.288232484474682, 'nu': 0.2876632855970387, 'sigma_hat': 0.8881829065844329, 'delta': -0.040142428939960784, 'gamma': 0.7078364068031628}
+Improved gradient descent found the following parameters that gave error 0.23615807281283346:
+ {'z(0)': 0.97, 'rho': 1.2100000000000002, 'K': 5.689999999999922, 'omega': -7.667477763817487e-16, 'phi': 2.000000000000001, 'nu': -7.667477763817487e-16, 'sigma_hat': 0.4399999999999995, 'delta': -0.09000000000000076, 'gamma': 0.9099999999999999}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.3033632111191046:
+ {'z(0)': 1.0226417112747512, 'rho': 1.310090409330055, 'K': 5.8607218434337796, 'omega': 0.5808266304786471, 'phi': 1.2344746159926858, 'nu': -4.9999425719704504e-06, 'sigma_hat': 0.8208761018886337, 'delta': -3.4208222753738813, 'gamma': 0.8642556881606192}
+Improved gradient descent found the following parameters that gave error 0.30648605049212724:
+ {'z(0)': 0.27999999999999936, 'rho': 1.3200000000000003, 'K': 5.839999999999919, 'omega': -8.396061623727746e-16, 'phi': 2.000000000000001, 'nu': -8.118505867571457e-16, 'sigma_hat': -7.806255641895632e-16, 'delta': -0.7000000000000013, 'gamma': 0.9199999999999999}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.3827364016728008:
+ {'z(0)': 5.872115488590012, 'rho': 1.0308339695775928, 'K': 9.515500288706804, 'omega': 0.4978734936684761, 'phi': 1.2872857517660643, 'nu': -4.99992092262147e-06, 'sigma_hat': 0.6608343548037956, 'delta': -1.253749462929333, 'gamma': 1.2533360342127366}
+Improved gradient descent found the following parameters that gave error 0.38921372053359526:
+ {'z(0)': 3.7799999999999625, 'rho': 1.04, 'K': 9.479999999999842, 'omega': -7.563394355258879e-16, 'phi': 2.000000000000001, 'nu': -7.563394355258879e-16, 'sigma_hat': -7.840950111415168e-16, 'delta': -1.2600000000000018, 'gamma': 1.12}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 3.1370979759759674:
+ {'z(0)': 4.110839466577277, 'rho': 1.1398742872352199, 'K': 8.484514048285032, 'omega': 0.4175289916645277, 'phi': 1.2489363422503166, 'nu': -4.999905657068763e-06, 'sigma_hat': 0.7048771097257758, 'delta': -0.5710282286354738, 'gamma': 1.8245031886219834}
+Improved gradient descent found the following parameters that gave error 5.483685167293773:
+ {'z(0)': 0.25999999999999934, 'rho': 1.525000000000011, 'K': 5.599999999999924, 'omega': -8.422082475867398e-16, 'phi': 1.9999999999999942, 'nu': -8.413408858487514e-16, 'sigma_hat': 0.19499999999999929, 'delta': 0.12999999999999923, 'gamma': 1.470000000000003}
+
+----------Sun Jan 10 19:54:56 2021----------
+ran Harissons with parameters:
+step_size11 = 0.05
+step_size12 = 0.4
+step_size21 = 500.0
+step_size22 = 2000.0
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 1e-09
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 30000
+all_data_sets_num_steps = 30000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.13755996496062087:
+ {'z(0)': 1.5757624487641444, 'rho': 0.972825151493272, 'K': 21.069202654579172, 'omega': 0.5401808293164769, 'phi': 1.1701268992752858, 'nu': -4.999835157892818e-06, 'sigma_hat': 0.9632793717935231, 'delta': -0.2919447385122129, 'gamma': 1.56801612819124}
+Improved gradient descent found the following parameters that gave error 0.1389867685344217:
+ {'z(0)': 0.7549999999999998, 'rho': 0.9349999999999998, 'K': 23.95499999999952, 'omega': -8.413408858487514e-16, 'phi': 1.9999999999999787, 'nu': -8.413408858487514e-16, 'sigma_hat': -8.283304597789254e-16, 'delta': -0.215000000000001, 'gamma': 1.1349999999999971}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.2298985255831975:
+ {'z(0)': 2.4592234986331327, 'rho': 1.2035114445760045, 'K': 5.696204569883962, 'omega': 0.5575705405934097, 'phi': 1.167427359007849, 'nu': -4.999954923201599e-06, 'sigma_hat': 0.9320679238661025, 'delta': -0.16988092740424876, 'gamma': 1.5345147491001012}
+Improved gradient descent found the following parameters that gave error 0.2324767319308972:
+ {'z(0)': 1.0299999999999994, 'rho': 1.1999999999999957, 'K': 5.6899999999999, 'omega': -8.27463098040937e-16, 'phi': 1.9999999999999787, 'nu': -8.27463098040937e-16, 'sigma_hat': 0.4299999999999995, 'delta': -0.1200000000000009, 'gamma': 0.8699999999999998}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.30361056902059935:
+ {'z(0)': 0.755669335362307, 'rho': 1.3100904093644719, 'K': 5.860721843315683, 'omega': 0.5911891665267834, 'phi': 1.171379925803239, 'nu': -4.999943959749231e-06, 'sigma_hat': 0.8432860959904356, 'delta': -0.9662843304490973, 'gamma': 0.9592300865813854}
+Improved gradient descent found the following parameters that gave error 0.3045956173452943:
+ {'z(0)': 0.2099999999999993, 'rho': 1.3099999999999934, 'K': 5.849999999999897, 'omega': -8.36136715420821e-16, 'phi': 1.9999999999999787, 'nu': -8.36136715420821e-16, 'sigma_hat': -8.27463098040937e-16, 'delta': -0.8000000000000015, 'gamma': 0.8899999999999998}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.38274375270341615:
+ {'z(0)': 5.796974285706941, 'rho': 1.0308351915273564, 'K': 9.515485499071502, 'omega': 0.56392441660874, 'phi': 1.1872244696338177, 'nu': -4.999924253290544e-06, 'sigma_hat': 0.7753642064074464, 'delta': -1.2541994737756976, 'gamma': 1.2485420665127025}
+Improved gradient descent found the following parameters that gave error 0.3841476719565923:
+ {'z(0)': 4.844999999999918, 'rho': 1.0349999999999993, 'K': 9.495000000000084, 'omega': -8.222589276130066e-16, 'phi': 1.9999999999999787, 'nu': -8.36136715420821e-16, 'sigma_hat': -8.213915658750182e-16, 'delta': -1.264999999999996, 'gamma': 1.184999999999996}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 3.1371398724524973:
+ {'z(0)': 4.007292179111078, 'rho': 1.1398742937125386, 'K': 8.484513962565078, 'omega': 0.5810736348979264, 'phi': 1.1770277012907995, 'nu': -4.999899134494611e-06, 'sigma_hat': 0.8292542043799858, 'delta': -0.5705445263830553, 'gamma': 1.7952609315738102}
+Improved gradient descent found the following parameters that gave error 5.427865244141235:
+ {'z(0)': 0.24999999999999933, 'rho': 1.5200000000000076, 'K': 5.609999999999968, 'omega': -7.7021722333370235e-16, 'phi': 2.000000000000001, 'nu': -7.840950111415168e-16, 'sigma_hat': 0.1999999999999993, 'delta': 0.12999999999999923, 'gamma': 1.4400000000000004}
+
+----------Mon Jan 11 18:32:31 2021----------
+ran Harissons with parameters:
+step_size11 = 0.05
+step_size12 = 0.2
+step_size21 = 500.0
+step_size22 = 4000.0
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 1e-09
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 30000
+all_data_sets_num_steps = 30000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.13755996496062087:
+ {'z(0)': 1.5757624487641444, 'rho': 0.972825151493272, 'K': 21.069202654579172, 'omega': 0.5401808293164769, 'phi': 1.1701268992752858, 'nu': -4.999835157892818e-06, 'sigma_hat': 0.9632793717935231, 'delta': -0.2919447385122129, 'gamma': 1.56801612819124}
+Improved gradient descent found the following parameters that gave error 0.1389867685344217:
+ {'z(0)': 0.7549999999999998, 'rho': 0.9349999999999998, 'K': 23.95499999999952, 'omega': -8.413408858487514e-16, 'phi': 1.9999999999999787, 'nu': -8.413408858487514e-16, 'sigma_hat': -8.283304597789254e-16, 'delta': -0.215000000000001, 'gamma': 1.1349999999999971}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.2298985255831975:
+ {'z(0)': 2.4592234986331327, 'rho': 1.2035114445760045, 'K': 5.696204569883962, 'omega': 0.5575705405934097, 'phi': 1.167427359007849, 'nu': -4.999954923201599e-06, 'sigma_hat': 0.9320679238661025, 'delta': -0.16988092740424876, 'gamma': 1.5345147491001012}
+Improved gradient descent found the following parameters that gave error 0.2324767319308972:
+ {'z(0)': 1.0299999999999994, 'rho': 1.1999999999999957, 'K': 5.6899999999999, 'omega': -8.27463098040937e-16, 'phi': 1.9999999999999787, 'nu': -8.27463098040937e-16, 'sigma_hat': 0.4299999999999995, 'delta': -0.1200000000000009, 'gamma': 0.8699999999999998}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.30361056902059935:
+ {'z(0)': 0.755669335362307, 'rho': 1.3100904093644719, 'K': 5.860721843315683, 'omega': 0.5911891665267834, 'phi': 1.171379925803239, 'nu': -4.999943959749231e-06, 'sigma_hat': 0.8432860959904356, 'delta': -0.9662843304490973, 'gamma': 0.9592300865813854}
+Improved gradient descent found the following parameters that gave error 0.3045956173452943:
+ {'z(0)': 0.2099999999999993, 'rho': 1.3099999999999934, 'K': 5.849999999999897, 'omega': -8.36136715420821e-16, 'phi': 1.9999999999999787, 'nu': -8.36136715420821e-16, 'sigma_hat': -8.27463098040937e-16, 'delta': -0.8000000000000015, 'gamma': 0.8899999999999998}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.38274375270341615:
+ {'z(0)': 5.796974285706941, 'rho': 1.0308351915273564, 'K': 9.515485499071502, 'omega': 0.56392441660874, 'phi': 1.1872244696338177, 'nu': -4.999924253290544e-06, 'sigma_hat': 0.7753642064074464, 'delta': -1.2541994737756976, 'gamma': 1.2485420665127025}
+Improved gradient descent found the following parameters that gave error 0.3841476719565923:
+ {'z(0)': 4.844999999999918, 'rho': 1.0349999999999993, 'K': 9.495000000000084, 'omega': -8.222589276130066e-16, 'phi': 1.9999999999999787, 'nu': -8.36136715420821e-16, 'sigma_hat': -8.213915658750182e-16, 'delta': -1.264999999999996, 'gamma': 1.184999999999996}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 3.1371398724524973:
+ {'z(0)': 4.007292179111078, 'rho': 1.1398742937125386, 'K': 8.484513962565078, 'omega': 0.5810736348979264, 'phi': 1.1770277012907995, 'nu': -4.999899134494611e-06, 'sigma_hat': 0.8292542043799858, 'delta': -0.5705445263830553, 'gamma': 1.7952609315738102}
+Improved gradient descent found the following parameters that gave error 5.44198013736149:
+ {'z(0)': 0.23999999999999938, 'rho': 1.5200000000000005, 'K': 5.62, 'omega': -6.730727086790012e-16, 'phi': 2.000000000000001, 'nu': -5.620504062164855e-16, 'sigma_hat': 0.19999999999999954, 'delta': 0.13999999999999932, 'gamma': 1.4200000000000004}
+
+----------Sun Jan 17 15:36:03 2021----------
+ran Harissons with parameters:
+step_size11 = 0.05
+step_size12 = 0.2
+step_size21 = 0.1
+step_size22 = 0.1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 1e-07
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 10
+all_data_sets_num_steps = 10
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.38935629398796767:
+ {'z(0)': 0.5631716051580078, 'rho': 1.0188078025992189, 'K': 10.002966227420353, 'omega': 1.0002476823335318, 'phi': 0.9999633349184736, 'nu': -0.06060400774636875, 'sigma_hat': 1.0002507062396573, 'delta': -0.39866178398356666, 'gamma': 0.9115827133933099}
+Improved gradient descent found the following parameters that gave error 0.2527225079662775:
+ {'z(0)': 0.4902548759844505, 'rho': 1.0746753672961153, 'K': 12.572776749349101, 'omega': 6.330542168074168, 'phi': 1.9889955431993316, 'nu': -0.009537989216159087, 'sigma_hat': 6.342522071994249, 'delta': -0.321018646804077, 'gamma': 0.8821104098956088}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.37314860088059704:
+ {'z(0)': 0.6571860912247258, 'rho': 0.819797054466386, 'K': 9.97123136516286, 'omega': 0.9575584178990173, 'phi': 1.0041250541740756, 'nu': 0.30423567297322873, 'sigma_hat': 0.8887764978891535, 'delta': -0.43360268954800674, 'gamma': 0.8319978009503339}
+Improved gradient descent found the following parameters that gave error 0.28737031091636706:
+ {'z(0)': 0.6397866348703438, 'rho': 0.8657631839850505, 'K': 7.3862096681269325, 'omega': 9.137683860651332, 'phi': 0.6400729415990632, 'nu': -0.010799381380523927, 'sigma_hat': 13.03568222758468, 'delta': -0.3386692666221867, 'gamma': 0.7151730893403687}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.4273470599769386:
+ {'z(0)': 0.4681328463888019, 'rho': 0.9771313090671243, 'K': 9.980602740657638, 'omega': 0.999570717130748, 'phi': 1.0000580207745737, 'nu': -4.997267312171604e-06, 'sigma_hat': 0.9995659441093254, 'delta': -0.5998929165982321, 'gamma': 1.0248305343025779}
+Improved gradient descent found the following parameters that gave error 0.32390683838986833:
+ {'z(0)': 0.41368623700056556, 'rho': 1.0448753553904817, 'K': 6.977629581182058, 'omega': 11.522167488668709, 'phi': 3.2328494688391904, 'nu': -0.006540406108554445, 'sigma_hat': -14.481188333986402, 'delta': -0.5209367673520945, 'gamma': 1.0025960337972846}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.5927084131537468:
+ {'z(0)': 0.5, 'rho': 1, 'K': 10, 'omega': 1, 'phi': 1, 'nu': -0.01, 'sigma_hat': 1, 'delta': -0.5, 'gamma': 1}
+Improved gradient descent found the following parameters that gave error 0.5231877870081936:
+ {'z(0)': 0.36422032760149525, 'rho': 0.9449145319772982, 'K': 9.625823069023022, 'omega': 0.7595277825777327, 'phi': 3.8281780464319173, 'nu': -0.00552039533838211, 'sigma_hat': 0.8400006377023659, 'delta': -0.5929029518264479, 'gamma': 0.9936820968552481}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 4.144848889803178:
+ {'z(0)': 0.5, 'rho': 1, 'K': 10, 'omega': 1, 'phi': 1, 'nu': -0.01, 'sigma_hat': 1, 'delta': -0.5, 'gamma': 1}
+Improved gradient descent found the following parameters that gave error 3.416766407192486:
+ {'z(0)': 0.6542126458785237, 'rho': 1.03726710189619, 'K': 9.184486031166765, 'omega': 0.8009558881475917, 'phi': 2.807909773235469, 'nu': -0.008155655447296448, 'sigma_hat': 0.8851162469735578, 'delta': -0.4110014873792919, 'gamma': 0.9368271443179335}
+
+----------Mon Jan 18 00:48:09 2021----------
+ran Harissons with parameters:
+step_size11 = 0.05
+step_size12 = 0.2
+step_size21 = 0.1
+step_size22 = 0.1
+epsilon1 = 1e-05
+epsilon2 = 1e-05
+minimal_second_gradient = 1e-07
+e1 = 0.01
+e2 = 0.025
+single_data_set_num_steps = 30000
+all_data_sets_num_steps = 30000
+
+Using data from Data/exp4_beker1_data.csv:
+Normal gradient descent found the following parameters that gave error 0.13355059470619685:
+ {'z(0)': 1.374493234248458, 'rho': 1.2101108897480108, 'K': 20.13932480049984, 'omega': 0.5844844383152683, 'phi': -0.2853151519008621, 'nu': 0.8716505993899937, 'sigma_hat': 2.6636467644185737, 'delta': -2.172325906896945, 'gamma': 1.1220308145528926}
+Improved gradient descent found the following parameters that gave error 0.08044408587877969:
+ {'z(0)': 0.040502129456999235, 'rho': 0.9254596829055212, 'K': 24.637499106722853, 'omega': 2.207800368521873, 'phi': 63.98344817365033, 'nu': -0.0262756034927954, 'sigma_hat': -12.783959450260523, 'delta': 0.6426374374916516, 'gamma': 0.735673378294428}
+
+Using data from Data/exp4_beker2_data.csv:
+Normal gradient descent found the following parameters that gave error 0.23015269857360904:
+ {'z(0)': 2.228443942385736, 'rho': 1.203511444601262, 'K': 5.696204570079326, 'omega': 1.2078370967863175, 'phi': 0.9004949872377646, 'nu': -4.999971954244842e-06, 'sigma_hat': -0.3573384156209678, 'delta': -0.16812564156953824, 'gamma': 1.4168553967406896}
+Improved gradient descent found the following parameters that gave error 0.22927311130789813:
+ {'z(0)': 0.6605481029532074, 'rho': 1.2006374621204265, 'K': 5.669074085063007, 'omega': 4.428104910375647, 'phi': -1.499139571226071, 'nu': -0.008219633865221529, 'sigma_hat': 5.011810915566303, 'delta': -0.22599844243336845, 'gamma': 0.7722158524168495}
+
+Using data from Data/exp4_beker3_data.csv:
+Normal gradient descent found the following parameters that gave error 0.303612228976193:
+ {'z(0)': 0.7169379733207855, 'rho': 1.3100904094127666, 'K': 5.860721843191541, 'omega': 0.9995706887703784, 'phi': 1.0000580239031822, 'nu': -4.999945170107e-06, 'sigma_hat': 0.999565919311939, 'delta': -0.971881825913345, 'gamma': 0.9521844143071658}
+Improved gradient descent found the following parameters that gave error 0.2611913788128513:
+ {'z(0)': 0.21996271055719735, 'rho': 1.2565085219258536, 'K': 5.780577688897546, 'omega': 12.135808314987896, 'phi': 5.243206834671672, 'nu': -0.020822527410892657, 'sigma_hat': -15.60171421154884, 'delta': 0.46868327692094813, 'gamma': 1.110784689005924}
+
+Using data from Data/exp4_beker4_data.csv:
+Normal gradient descent found the following parameters that gave error 0.3827440017982527:
+ {'z(0)': 5.7956631841132005, 'rho': 1.0308336402674025, 'K': 9.515504274757138, 'omega': 0.605551346580079, 'phi': 1.0420012620733212, 'nu': -4.999922965652362e-06, 'sigma_hat': 0.4313420164826489, 'delta': -1.254207050455702, 'gamma': 1.2484585440526432}
+Improved gradient descent found the following parameters that gave error 0.1263356141773249:
+ {'z(0)': -6.4997271590063965, 'rho': 0.9761708749899917, 'K': 9.706954593732451, 'omega': 111.32230062836096, 'phi': 42.28995793686612, 'nu': -0.01789053788308643, 'sigma_hat': -4.873391404706186, 'delta': -1.211738176034179, 'gamma': -0.24185393034589547}
+
+Using all data:
+Normal gradient descent found the following parameters that gave error 3.709562585110663:
+ {'z(0)': 2.437432851959464, 'rho': 1.244941424913936, 'K': 8.418567405933377, 'omega': 0.03706041345818881, 'phi': -0.4209209440085857, 'nu': 6.038953721269346, 'sigma_hat': -0.011552213896482786, 'delta': -0.5210548566004221, 'gamma': 1.0807119279144786}
+Improved gradient descent found the following parameters that gave error 2.2039587515655796:
+ {'z(0)': 0.8073625372153405, 'rho': 1.2059364638798984, 'K': 7.486034039359279, 'omega': 22.709268838129123, 'phi': -0.749210916370186, 'nu': -0.005418103339557228, 'sigma_hat': -13.343040936676141, 'delta': -0.07237514236372071, 'gamma': 0.8701801651909592}
+
